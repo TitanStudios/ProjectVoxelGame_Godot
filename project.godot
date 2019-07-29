@@ -16,6 +16,7 @@ _global_script_class_icons={
 [application]
 
 config/name="ProjectVoxelGame_Godot"
+run/main_scene="res://Escena01.tscn"
 config/icon="res://icon.png"
 
 [rendering]
