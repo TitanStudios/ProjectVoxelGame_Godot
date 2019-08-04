@@ -12,6 +12,7 @@ public class YourCustomClass : Node
         // Called every time the node is added to the scene.
         // Initialization here.
         GD.Print("Hello from C# to Godot :)");
+		GD.Print("Probando con los gestores de Git");
     }
 
     public override void _Process(float delta)
