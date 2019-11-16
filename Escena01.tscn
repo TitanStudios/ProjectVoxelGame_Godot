@@ -8,3 +8,11 @@ environment = ExtResource( 1 )
 
 [node name="Scene Root" parent="." instance=ExtResource( 2 )]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0.577912, 0.466527, 0.00115442 )
+
+[node name="SpotLight" type="SpotLight" parent="."]
+transform = Transform( 1, 0, 0, 0, 0.991392, 0.130931, 0, -0.130931, 0.991392, 1.68313, 1.27859, 5.19806 )
+spot_range = 10.5012
+spot_angle = 44.2317
+
+[node name="Camera" type="Camera" parent="."]
+transform = Transform( 1, 0, 0, 0, 0.991392, 0.130931, 0, -0.130931, 0.991392, 0.646708, 1.09447, 3.22225 )
