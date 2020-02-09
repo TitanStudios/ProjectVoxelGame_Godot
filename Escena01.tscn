@@ -1,7 +1,8 @@
-[gd_scene load_steps=3 format=2]
+[gd_scene load_steps=4 format=2]
 
 [ext_resource path="res://default_env.tres" type="Environment" id=1]
 [ext_resource path="res://Monito.glb" type="PackedScene" id=2]
+[ext_resource path="res://mico.fbx" type="PackedScene" id=3]
 
 [node name="WorldEnvironment" type="WorldEnvironment"]
 environment = ExtResource( 1 )
@@ -16,3 +17,6 @@ spot_angle = 44.2317
 
 [node name="Camera" type="Camera" parent="."]
 transform = Transform( 0.870541, -0.0644306, 0.48786, 0, 0.991392, 0.130931, -0.492096, -0.113981, 0.863047, 2.40283, 1.22898, 2.36491 )
+
+[node name="mico" parent="." instance=ExtResource( 3 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 1.18764, 2.10138, 0.0130072 )
