@@ -16,7 +16,7 @@ spot_range = 12.2726
 spot_angle = 44.2317
 
 [node name="Camera" type="Camera" parent="."]
-transform = Transform( 0.870541, -0.0644306, 0.48786, 0, 0.991392, 0.130931, -0.492096, -0.113981, 0.863047, 2.40283, 1.22898, 2.36491 )
+transform = Transform( 0.870541, -0.0644307, 0.48786, 0, 0.991392, 0.130931, -0.492096, -0.113981, 0.863047, 2.72006, 1.61596, 2.89325 )
 
 [node name="mico" parent="." instance=ExtResource( 3 )]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 1.18764, 2.10138, 0.0130072 )
