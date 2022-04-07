@@ -1,0 +1,14 @@
+102b54792f6b2ef812636a2bdaeb9d34
+::res://::1649308336
+DefaultMaterial.material::StandardMaterial3D::-1::1648245834::0::1::::<><>::
+default_env.tres::Environment::-1::1648245924::0::1::::<><>::
+icon.png::CompressedTexture2D::1786265070640525403::1648245834::1649308337::1::::<><>::
+mico.fbx::PackedScene::6675313078777300464::1648245834::1649308338::1::::<><>::
+Monito.glb::PackedScene::2872745086567350199::1648245834::1649308338::1::::<><>::
+nave-g.png::CompressedTexture2D::1911239683905594230::1648245834::1649308337::1::::<><>::
+README.md::TextFile::-1::1648245834::0::1::::<><>::
+Test.gd::GDScript::-1::1648245834::0::1::::<>Node<>::
+::res://player/::1648245924
+player.gd::GDScript::-1::1648245834::0::1::::<><>::
+player.tscn::PackedScene::-1::1648245924::0::1::::<><>::res://nave-g.png<>res://player/player.gd
+::res://Properties/::1648245834
