@@ -1,5 +1,5 @@
 0b7126e0c6e86d3ec295a72f5aa6e0bd
-::res://::1653413894
+::res://::1657931734
 DefaultMaterial.material::StandardMaterial3D::-1::1648245834::0::1::::<><>::
 default_env.tres::Environment::-1::1648245924::0::1::::<><>::
 icon.png::CompressedTexture2D::1786265070640525403::1648245834::1649308337::1::::<><>::
@@ -7,7 +7,7 @@ Monito.glb::PackedScene::2872745086567350199::1648245834::1649308338::1::::<><>:
 nave-g.png::CompressedTexture2D::1911239683905594230::1648245834::1649308337::1::::<><>::
 README.md::TextFile::-1::1648245834::0::1::::<><>::
 Test.gd::GDScript::-1::1648245834::0::1::::<>Node<>::
-::res://player/::1652503474
-player.gd::GDScript::-1::1649308928::0::1::::<>CharacterBody2D<>::
-player.tscn::PackedScene::7496844348273621092::1652503474::0::1::::<><>::uid://2h23re3nnvg5<>res://player/player.gd
+::res://player/::1657066401
+player.gd::GDScript::-1::1657066229::0::1::::<>Node2D<>::
+player.tscn::PackedScene::7496844348273621092::1657066401::0::1::::<><>::res://player/player.gd
 ::res://Properties/::1648245834

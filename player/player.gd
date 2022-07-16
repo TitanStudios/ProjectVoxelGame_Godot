@@ -1,4 +1,4 @@
-extends CharacterBody2D
+extends Node2D
 
 const RIGHT : int = 1
 const LEFT : int = -1
